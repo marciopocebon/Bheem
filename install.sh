@@ -25,7 +25,6 @@ go get github.com/haccer/subjack;
 GO111MODULE=on go get -v github.com/projectdiscovery/subfinder/cmd/subfinder;
 GO111MODULE=on go get -u github.com/projectdiscovery/chaos-client/cmd/chaos;
 GO111MODULE=on go get -u -v github.com/hahwul/dalfox;
-go get github.com/ffuf/ffuf;
 wget https://raw.githubusercontent.com/Mad-robot/recon-tools/master/dicc.txt -o /root/wordlist/dicc.txt
 GO111MODULE=on go get -u -v github.com/lc/gau;
 go get -u github.com/tomnomnom/gf;
